@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  #result-container {
+    margin-top: 50px;
+  }
+.map{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 300px;
+    width: 100%;
+}
+.inp{
+    width: 10px;
+}
